@@ -1,9 +1,9 @@
 # welcome bot: A Probot App
 
 DESCRIPTION PLACEHOLDER
-
+A comminity project for people new open source 
 ## What it does
-
+Allows you to contribute to open source 
 FEATURES PLACEHOLDER
 
 ## Getting started
