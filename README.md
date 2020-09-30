@@ -5,8 +5,9 @@ A comminity project for people new open source
 ## What it does
 Allows you to contribute to open source 
 
-FEATURES PLACEHOLDER
+
 Welcome new users with maintainer defined comments the first time your users:
+
 -basic markdown for ease of use
 -Create a new issue
 -Open a new pull request
